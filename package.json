@@ -1,0 +1,22 @@
+{
+  "name": "tgjsj6",
+  "version": "0.0.0",
+  "description": "Sample react-csv-importer usage snippet",
+  "main": "index.jsx",
+  "author": "Nick Matantsev <nick.matantsev@beamworks.io>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-csv-importer": "^0.7.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
